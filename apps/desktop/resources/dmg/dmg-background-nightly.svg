@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="864" viewBox="0 0 640 432">
+  <rect width="640" height="432" fill="#000"/>
+  <text x="32" y="44" fill="#f4f4f4" font-family="Helvetica" font-size="24" font-weight="700">mines</text>
+  <text x="320" y="104" fill="#f4f4f4" font-family="Helvetica" font-size="23" font-weight="500" text-anchor="middle">Drag mines into Applications.</text>
+  <path d="M278 204h84m-12-12 12 12-12 12" stroke="#888" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="320" y="367" fill="#999" font-family="Helvetica" font-size="12" text-anchor="middle">Once copied, open it from Applications.</text>
+</svg>
